@@ -1,0 +1,15 @@
+.zag1 {
+  color: rgb(78, 247, 55);
+  text-decoration: dashed;
+  font-weight: bold;
+}
+.zag3 {
+  color: rgb(0, 177, 183);
+  text-decoration: underline;
+}
+h2.zag2 {
+  color: rgb(144, 127, 255);
+  text-decoration: dotted;
+  font-size: 40px;
+}
+

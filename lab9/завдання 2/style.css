@@ -1,0 +1,27 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.plates {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.plate {
+  display: flex;
+  flex-direction: column;
+}
+
+.plate__title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #3366cc;
+}
+
+.plate__content {
+  font-size: 16px;
+  color: #333;
+}
+
